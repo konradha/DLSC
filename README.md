@@ -5,7 +5,7 @@ Using [Micromamba](https://mamba.readthedocs.io/en/latest/user_guide/micromamba.
 
 ```bash
 # create env + install dependencies
-micromamba create -n dlsc pytorch torchvision scikit-learn numpy matplotlib juypter
+micromamba create -n dlsc pytorch torchvision scikit-learn numpy matplotlib juypter deepxde
 micromamba activate dlsc
 jupyter notebook
 ``` 
